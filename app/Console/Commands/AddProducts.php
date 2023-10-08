@@ -16,7 +16,7 @@ class AddProducts extends Command
     public function handle()
     {
         try {
-            Excel::import(new ProductsImport, Storage::path('Products.csv'));
+            Excel::import(new ProductsImport, Storage::path('public/Products.csv'));
 
         } catch (\Exception $exception) {
             throw new \Exception($exception->getMessage());

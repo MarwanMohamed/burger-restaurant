@@ -1,0 +1,5 @@
+Name,description,product_type,sku,stock,quantity,product_id
+Burger,Great sandwich,COMBINED,aaaaaaaa,,,
+Beef,Great Beef,WEIGHT,bbbbbbbb,20000,150,1
+Cheese,Great Cheese,WEIGHT,cccccccc,5000,30,1
+Onion,Great Onion,WEIGHT,dddddddd,1000,20,1
