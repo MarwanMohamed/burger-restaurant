@@ -64,3 +64,5 @@ Small Restaurant is a Laravel-based web application that allows users to place o
 To run the tests for this application, use the following command:
 
 - php artisan test
+
+[For Developers code structure and functionality](./READMEFORDEVELOPERS.md)
