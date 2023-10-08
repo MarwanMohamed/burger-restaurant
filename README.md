@@ -33,8 +33,8 @@ To install Burger Restaurant, follow these steps:
          mv public/Products.csv storage/app/public
          php artisan add-products 
 
- -you also can use the seed command to seed products to the database:
- -php artisan migrate
+ - you also can use the seed command to seed products to the database:
+ - php artisan migrate
 
 
 9. Generate an application key:
